@@ -166,17 +166,6 @@ Eleve ──── Garant
   └── Presence ──── FichePresences
 ```
 
----
-
-## 📸 Aperçu de l'interface
-
-| Tableau de bord | Fiche élève |
-|---|---|
-| Statistiques en temps réel, alertes, sessions ouvertes | Informations personnelles, inscriptions, factures, présences |
-
-| Liste des cours | Gestion des factures |
-|---|---|
-| Filtrage par niveau et type | Génération, suivi et paiement en quelques clics |
 
 ---
 
@@ -204,7 +193,7 @@ Eleve ──── Garant
 
 ## 📄 Licence
 
-Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est distribué sous licence **MIT**.
 
 ---
 
