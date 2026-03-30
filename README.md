@@ -49,6 +49,12 @@ Ce projet a été réalisé par une équipe de 4 étudiants de la **Faculté d'I
 - Alertes sur factures impayées depuis plus de 3 jours
 - Répartition des cours et places disponibles par session
 - Anniversaires du mois et pays d'origine majoritaire
+  <img width="619" height="604" alt="image" src="https://github.com/user-attachments/assets/d3dae10e-eeef-48fa-84ce-6ad55ea2a554" />
+  <img width="673" height="644" alt="image" src="https://github.com/user-attachments/assets/11972e1b-0bb1-441d-85de-46010a29f4bc" />
+  <img width="1040" height="641" alt="image" src="https://github.com/user-attachments/assets/c75afa12-3242-4628-9987-f3d98a8f3b6f" />
+
+
+
 
 ---
 
